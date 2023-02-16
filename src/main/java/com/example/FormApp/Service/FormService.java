@@ -12,5 +12,6 @@ public class FormService {
 
 
 
-  public Product SaveOrUpdate(Product product){return formRepo.save(product);}
+  public Product SaveOrUpdate(Product product){return formRepo.save(product);
+  }
 }

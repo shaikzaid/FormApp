@@ -50,6 +50,11 @@
 			<artifactId>spring-data-commons</artifactId>
 			<version>2.7.5</version>
 		</dependency>
+		<dependency>
+			<groupId>org.touchbit.web</groupId>
+			<artifactId>form-urlencoded-marshaller</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 	</dependencies>
 
 	<build>
